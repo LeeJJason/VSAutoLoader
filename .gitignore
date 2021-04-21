@@ -1,0 +1,9 @@
+VSAutoLoader/obj/
+VSAutoLoader/bin/Debug/VSAutoLoader.exe
+VSAutoLoader/bin/Debug/VSAutoLoader.exe.config
+VSAutoLoader/bin/Debug/VSAutoLoader.pdb
+VSAutoLoader/.vs/VSAutoLoader/v15/.suo
+VSAutoLoader/.vs/VSAutoLoader/v15/Server/sqlite3/db.lock
+VSAutoLoader/.vs/VSAutoLoader/v15/Server/sqlite3/storage.ide
+VSAutoLoader/.vs/VSAutoLoader/v15/Server/sqlite3/storage.ide-shm
+VSAutoLoader/.vs/VSAutoLoader/v15/Server/sqlite3/storage.ide-wal
